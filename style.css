@@ -1,1 +1,86 @@
+body {
+  background: url("cvcvr.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#cv{
+  position: relative;
+  text-align: center;
+  background-color:#A52A2A;
+  color: white ;
+  padding: 30px;
+  height: 400px;
+  width: 500px;
+  margin: 100px auto;
+  font-size: 20px;
+}
+  body{
+    background-image: (cv_pic.jpg);
+  }
+  img{
+    height: 50px;
+    width: 50px;
+
+  }
 /* Your CSS styles go here */
+#info{
+position: relative;
+text-align: center;
+background-color: #A52A2A;
+color: White ;
+padding: 40px;
+height: auto;
+width: 500px;
+margin: 100px auto;
+}
+#obj{
+  position: relative;
+  text-align: center;
+  background-color: #A52A2A;
+  color: White ;
+  padding: 20px;
+  height: auto;
+  width: 500px;
+  margin: 100px auto;
+
+}
+#hby{
+  position: relative;
+  text-align: center;
+  background-color: #A52A2A;
+  color: White ;
+  padding: 20px;
+  height: auto;
+  width: 500px;
+  margin: 100px auto;
+
+}
+#skill{
+  position: relative;
+  text-align: center;
+  background-color: #A52A2A;
+  color: White ;
+  padding: 20px;
+  height: auto;
+  width: 500px;
+  margin: 100px auto;
+
+}
+#edu{
+  position: relative;
+  text-align: center;
+  background-color: #A52A2A;
+  color: White ;
+  padding: 30px;
+  height: auto;
+  width: 500px;
+  margin: 100px auto;
+
+}
+table,td,th{
+  color:white;
+  border-color: white;
+  border-style:solid;
+}
